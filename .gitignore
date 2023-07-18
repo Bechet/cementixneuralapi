@@ -1,0 +1,5 @@
+# Neural models can be heavy
+*.bin
+
+# Cache
+__pycache__
